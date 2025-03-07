@@ -4,10 +4,10 @@
 ![image](https://github.com/user-attachments/assets/cffbaa82-3589-4a30-9540-05befe85fe70)
 
 ## 📌 Índice
--[📖 Descripción del Proyecto] (#descripcion-Proyecto).
--[🚀 Funcionalidades](#funcionalidades).
--[🎨 Capturas de Pantalla](#capturas-Pantalla).
--[👨‍💻 Desarrolladora](#desarrolladora)
+-`[📖 Descripción del Proyecto]` (#descripcion-Proyecto).
+-`[🚀 Funcionalidades]`(#funcionalidades).
+-`[🎨 Capturas de Pantalla]`(#capturas-Pantalla).
+-`[👨‍💻 Desarrolladora]`(#desarrolladora)
 
 📖 Descripción del Proyecto
 Este es un juego web interactivo en el que los usuarios pueden agregar nombres y realizar un sorteo aleatorio para elegir un "Amigo Secreto".
@@ -32,5 +32,5 @@ Este es un juego web interactivo en el que los usuarios pueden agregar nombres y
 
 | [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>BRENDA DIANNA HUAMÁN CRUZ </sub>](https://github.com/BrendaDi1995) |
 | :---: | :---: | :---: |
-
+👩‍💻 [Tu Nombre]📍 Desarrollador Web - Apasionado por la tecnología y la innovación.📧 Contacto: tuemail@example.com🐙 GitHub: github.com/tu-usuario
 
