@@ -4,9 +4,9 @@
 ![image](https://github.com/user-attachments/assets/cffbaa82-3589-4a30-9540-05befe85fe70)
 
 ## 📌 Índice
--[📖 Descripción del Proyecto] (#descripcion-Proyecto)
--[🚀 Funcionalidades](#funcionalidades)
--[🎨 Capturas de Pantalla](#capturas-Pantalla)
+-[📖 Descripción del Proyecto] (#descripcion-Proyecto).
+-[🚀 Funcionalidades](#funcionalidades).
+-[🎨 Capturas de Pantalla](#capturas-Pantalla).
 -[👨‍💻 Desarrolladora](#desarrolladora)
 
 📖 Descripción del Proyecto
