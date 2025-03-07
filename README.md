@@ -1,6 +1,8 @@
 <h1 align="center"> 🎁 Amigo Secreto - Sorteo Aleatorio </h1>
 :construction: Proyecto en construcción :construction:
-![Etiqueta circular amigo secreto navideño moderno rojo](https://github.com/user-attachments/assets/bccaf924-c813-44f1-95fe-fd9cc5e63fe6)[Uploading Código para amigo secreto.html…]()
+
+![image](https://github.com/user-attachments/assets/cffbaa82-3589-4a30-9540-05befe85fe70)
+
 ## 📌 Índice
 [📖 Descripción del Proyecto] (#descripcion-Proyecto)
 [🚀 Funcionalidades](#funcionalidades)
